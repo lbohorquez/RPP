@@ -1,0 +1,11 @@
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\Entidades\obj\Debug\Entidades.pdb

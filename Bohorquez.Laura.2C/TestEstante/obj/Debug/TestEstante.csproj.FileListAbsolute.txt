@@ -1,0 +1,11 @@
+C:\Users\Migue\Desktop\Bohorquez.Laura.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\FormEstante.exe
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\bin\Debug\FormEstante.pdb
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Cecilia\Desktop\Bohorquez.Laura.2C\Bohorquez.Laura.2C\TestEstante\obj\Debug\TestEstante.pdb
